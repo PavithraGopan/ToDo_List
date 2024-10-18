@@ -25,4 +25,4 @@ Once the application is running, you will see a menu with the following options:
 3. Mark Task Completed
 4. Delete Task
 5. Exit
-Follow the prompts to manage your tasks.
+   
