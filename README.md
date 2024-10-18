@@ -20,9 +20,9 @@ The Personal To-Do List Application is a simple Python-based program that allows
 ##   Usage
 Once the application is running, you will see a menu with the following options:
 
-Add Task
-View Tasks
-Mark Task Completed
-Delete Task
-Exit
+1. Add Task
+2. View Tasks
+3. Mark Task Completed
+4. Delete Task
+5. Exit
 Follow the prompts to manage your tasks.
